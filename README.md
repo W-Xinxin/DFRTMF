@@ -1,7 +1,7 @@
 # DFRTMF
 Code of IEEE TCSVT 2025 "Incomplete Multiview Clustering using Discriminative Feature Recovery and Tensorized Matrix Factorization"
 
-Please run the 'run.m', and reproduce the results on 'ORL_mtv' datasets.
+Please run the 'Demo_DFRTMF.m', and reproduce the results on 'MSRCv1_mtv' datasets.
 
 Any problem can contact xinxinwang1024@gmail.com. Thanks.
 
